@@ -19,13 +19,13 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6q0291_000-X.yaml, hash: 'sha256:348bfd115bd1c05106c4fc826ce40b2784b458d14bdd5fc7e39f1fba749e6280'}
+  - {seq: 0, filename: KR6q0291_000-X.yaml, hash: 'sha256:cbc92574826cc446f7e686168345613583dad46eb44176129a5b786ab82b06b4'}
   - {seq: 1, filename: KR6q0291_001-X.yaml, hash: 'sha256:75749a14914d9399b349af5c9e643935f5079a1ebb0faa0fc90ba0ca74dfa13d'}
   - {seq: 2, filename: KR6q0291_002-X.yaml, hash: 'sha256:f076a83f53d7232d7d1bcae157c02664aba9f43c0a89a86d8600611c590f7bd0'}
   - {seq: 3, filename: KR6q0291_003-X.yaml, hash: 'sha256:a0083ed2ad82821d83568b16c83a3ba0199f33ac1bbf00af314df20bca1e3303'}
   - {seq: 4, filename: KR6q0291_004-X.yaml, hash: 'sha256:408f33ea48e2a2bcfe849fa6f2263d3e32a9fe27cf0600279690a7edcd245aad'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0291_000-X.markers.yaml, hash: 'sha256:f1503597aa8da89cd058cca8093488874546b30b70522b79e90dd56607680418'}
+  - {seq: 0, role: markers, filename: assets/KR6q0291_000-X.markers.yaml, hash: 'sha256:7c74b830b22df422c74bce8e7eb95d47dc8d50b9f6945f98e5abd5c2b23e8bc8'}
   - {seq: 1, role: markers, filename: assets/KR6q0291_001-X.markers.yaml, hash: 'sha256:6edf38af09bf0780c0c4c419d959ffa315156c2798334919ae293ceb218360c6'}
   - {seq: 2, role: markers, filename: assets/KR6q0291_002-X.markers.yaml, hash: 'sha256:9fe798cad8219c6d40b889f1d5d8a78e442751b8572580af7fb571709baf42df'}
   - {seq: 3, role: markers, filename: assets/KR6q0291_003-X.markers.yaml, hash: 'sha256:e9abad9de1d60a583b27b03f5ed4b0b7732c5e62b57d348b05142f2a05617e86'}
@@ -35,7 +35,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0291_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 佛果圜悟真覺禪師心要目次
@@ -1481,4 +1481,4 @@ table_of_contents:
   label: 示宗覺大師
   type: mulu
   level: 1
-hash: sha256:d88d05ed87ac2c902d84354af930e15782d23400327df2f23f05149235c53dc2
+hash: sha256:030ccfddf8e1c7823662024ea96505ec03e566318d9ed10264e8dbdaf2b7859e
